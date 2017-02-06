@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: YouInteract
+        psr4_prefix: YouInteract
+        src_path: app
